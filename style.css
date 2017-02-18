@@ -1,0 +1,104 @@
+header {
+  border-bottom: 20px groove;
+  width: 960px;
+  margin: auto;
+  padding-bottom: 30px;
+  padding-top: 15px;
+}
+
+.logo{
+  display: inline-block;
+  line-height: 0em;
+}
+
+.social-media{
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-content {
+  width: 960px;
+  margin: auto;
+}
+
+div p {
+  font-size: 13px;
+}
+
+.print {
+  display: inline;
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-subtitle {
+  margin-top: -25px;
+}
+
+.choco-pizza {
+  width: 960px;
+}
+
+.indent {
+  text-indent: 2em;
+  font-size: 20px;
+  color: #61686d;
+}
+
+.checklist {
+  background-image: url(list-bg.png);
+  height: 300px;
+}
+
+.ingredient-list {
+  display: inline-block;
+  font-size: 28px;
+  color: #746140;
+}
+
+.footer {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  border-top: 20px groove;
+  margin-top: 30px;
+}
+
+.name {
+  display: inline;
+}
+
+.about-me {
+    margin-top: -3px;
+    font-size: 20px;
+}
+
+.share {
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+  height: 15px;
+  width: 100px;
+  color: #f7faf1;
+  background-color: #bc7058;
+  padding-bottom: 25px;
+}
+
+.van-pic {
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottom-logo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 35px;
+  display: block;
+}
+
+.copyright {
+  text-align: center;
+  color: #84a8ab;
+}
